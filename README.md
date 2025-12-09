@@ -15,7 +15,10 @@ El dataset proviene del repositorio UCI ML y contiene 178 muestras con 13 caract
 5. Modelado con RandomForest dentro de un Pipeline  
 6. Evaluación del modelo con métricas avanzadas  
 7. Registro del modelo con MLflow  
-8. Predicción final de muestras nuevas  
+8. Predicción final de muestras nuevas
+## Arquitectura del pipeline
+
+![Arquitectura del pipeline](assets/diagram_pipeline.png)
 
 ## 4. Resultados
 - Accuracy: 1.0  
