@@ -18,7 +18,7 @@ El dataset proviene del repositorio UCI ML y contiene 178 muestras con 13 caract
 8. Predicción final de muestras nuevas
 ## Arquitectura del pipeline
 
-![Arquitectura del pipeline](assets/Clasificacion%20de%20vinos.png)
+![Arquitectura del pipeline](Clasificacion%20de%20vinos.png)
 
 ## 4. Resultados
 - Accuracy: 1.0  
